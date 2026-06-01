@@ -2,7 +2,8 @@
 # It should be used as a reference for you to see the output
 # of `git log --oneline --graph --all` after each step
 
-*   69502d7 (HEAD -> main) K: Merge branch 'main' of https://github.com/theprimeagen/webflyx
+* c00b29a (HEAD -> add_classics, origin/add_classics) L: add hitchcock
+*   69502d7 (main) K: Merge branch 'main' of https://github.com/theprimeagen/webflyx
 |\
 | * 0a87d06 (origin/main) J: Update classics.csv
 * | 5379f56 I: fear is the mind-killer
