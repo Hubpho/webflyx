@@ -2,5 +2,6 @@
 # It should be used as a reference for you to see the output
 # of `git log --oneline --graph --all` after each step
 
-* 46a4c5e (HEAD -> master) B: add titles
+* 73f3d32 (HEAD -> master) C: add quotes
+* 46a4c5e B: add titles
 * e50047e A: add contents.md
