@@ -2,7 +2,8 @@
 # It should be used as a reference for you to see the output
 # of `git log --oneline --graph --all` after each step
 
-* 76f2837 (HEAD -> main) M: add gitignore
+* 7e2532f (HEAD -> main) N: ignore the generated html
+* 76f2837 M: add gitignore
 *   9953941 (origin/main) Merge pull request #1 from theprimeagen/add_classics
 |\
 | * c00b29a L: add hitchcock
