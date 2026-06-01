@@ -1,0 +1,5 @@
+# This file should *not* be in your project repository
+# It should be used as a reference for you to see the output
+# of `git log --oneline --graph --all` after each step
+
+* e50047e (HEAD -> master) A: add contents.md
