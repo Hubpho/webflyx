@@ -2,9 +2,11 @@
 # It should be used as a reference for you to see the output
 # of `git log --oneline --graph --all` after each step
 
-* 02ea9f2 (HEAD -> main) E: add contents to contents.md
-| * e83a498 (add_classics) D: add classics
+*   d97e540 02ea9f2 e83a498 (HEAD -> main) F: Merge branch 'add_classics'
+|\
+| * e83a498 73f3d32 (add_classics) D: add classics
+* | 02ea9f2 73f3d32 E: add contents to contents.md
 |/
-* 73f3d32 C: add quotes
-* 46a4c5e B: add titles
+* 73f3d32 46a4c5e C: add quotes
+* 46a4c5e e50047e B: add titles
 * e50047e A: add contents.md
