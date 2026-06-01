@@ -2,7 +2,8 @@
 # It should be used as a reference for you to see the output
 # of `git log --oneline --graph --all` after each step
 
-*   9953941 (HEAD -> main, origin/main) Merge pull request #1 from theprimeagen/add_classics
+* 76f2837 (HEAD -> main) M: add gitignore
+*   9953941 (origin/main) Merge pull request #1 from theprimeagen/add_classics
 |\
 | * c00b29a L: add hitchcock
 | *   69502d7 K: Merge branch 'main' of https://github.com/theprimeagen/webflyx
