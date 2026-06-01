@@ -2,8 +2,7 @@
 # It should be used as a reference for you to see the output
 # of `git log --oneline --graph --all` after each step
 
-* fcfc678 (HEAD -> update_dune) J: intern screwed up titles.md
-* 5379f56 I: fear is the mind-killer
+* 5379f56 (HEAD -> update_dune) I: fear is the mind-killer
 * 8cc2ae9 H: the spice must flow
 * d7de4cb (main) G: add benjamin button to titles
 *   d97e540 F: Merge branch 'add_classics'
